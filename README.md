@@ -36,6 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I learned a lot from doing this prework. The only issues I had with the prework was my computer's lack of power. Android Studio was running pretty slow on it so it took me quite some time to get everything but I did learn and finish it eventually.
 
 ## License
 
